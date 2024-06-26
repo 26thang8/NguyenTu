@@ -1,0 +1,11 @@
+MarketTrendID,TrendName,Description,StartDate,EndDate,TrendType,MarketSegment,GrowthRate,Impact,CompetitorActions,ConsumerBehavior
+1,Trend 1,Description of market trend 1,2021-10-08,2024-11-10,Long-term,Home Appliances,4.25,Impact of trend 1,Competitor actions for trend 1,Consumer behavior for trend 1
+2,Trend 2,Description of market trend 2,2024-03-04,2026-11-21,Long-term,Wearable Devices,7.69,Impact of trend 2,Competitor actions for trend 2,Consumer behavior for trend 2
+3,Trend 3,Description of market trend 3,2022-05-24,2027-02-27,Seasonal,Electronics,5.37,Impact of trend 3,Competitor actions for trend 3,Consumer behavior for trend 3
+4,Trend 4,Description of market trend 4,2024-01-01,2027-02-07,Short-term,Electronics,8.62,Impact of trend 4,Competitor actions for trend 4,Consumer behavior for trend 4
+5,Trend 5,Description of market trend 5,2024-03-30,2025-05-04,Seasonal,Home Appliances,8.38,Impact of trend 5,Competitor actions for trend 5,Consumer behavior for trend 5
+6,Trend 6,Description of market trend 6,2023-09-02,2026-09-19,Short-term,Wearable Devices,4.57,Impact of trend 6,Competitor actions for trend 6,Consumer behavior for trend 6
+7,Trend 7,Description of market trend 7,2024-03-29,2026-06-07,Long-term,Wearable Devices,8.97,Impact of trend 7,Competitor actions for trend 7,Consumer behavior for trend 7
+8,Trend 8,Description of market trend 8,2024-03-23,2025-08-08,Short-term,Home Appliances,4.68,Impact of trend 8,Competitor actions for trend 8,Consumer behavior for trend 8
+9,Trend 9,Description of market trend 9,2021-12-28,2026-11-16,Short-term,Electronics,5.8,Impact of trend 9,Competitor actions for trend 9,Consumer behavior for trend 9
+10,Trend 10,Description of market trend 10,2023-04-29,2025-04-02,Seasonal,Home Appliances,2.99,Impact of trend 10,Competitor actions for trend 10,Consumer behavior for trend 10
